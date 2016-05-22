@@ -17,8 +17,6 @@ unzip( "syr_parcels.zip" )
 
 file.remove( "syr_parcels.zip" )
 
-# note plus
-
 
 
 
